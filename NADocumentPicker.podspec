@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '12.1'
   s.swift_versions = ['5.0']
-  s.platform     = :ios, '12.0'
+  s.platform     = :ios, '12.1'
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/**/*'
